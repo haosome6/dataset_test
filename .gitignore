@@ -6,6 +6,7 @@
 pytorch_data
 __pycache__/
 
+*.pth
 hmdb51
 ucf101
 testTrainMulti_7030_splits
