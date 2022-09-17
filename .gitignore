@@ -7,7 +7,7 @@ pytorch_data
 __pycache__/
 
 *.pth
-hmdb51
+hmdb51_dataset
+hmdb51_splits
 ucf101
-testTrainMulti_7030_splits
 ucfTrainTestlist
